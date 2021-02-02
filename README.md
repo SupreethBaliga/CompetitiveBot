@@ -29,3 +29,7 @@ $ cd Scripts/
 $ python main.py
 ```
 - Thats it!! Your bot must be up and running in the desired server. You can look up the commands by using: ```cp!help```
+
+## Contributors:
+* [Supreeth Baliga](https://github.com/SupreethBaliga/)
+* [Nikhil Agarwal](https://github.com/nikhilag2711/)
